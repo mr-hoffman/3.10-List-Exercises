@@ -10,7 +10,7 @@ def remove_duplicates(_list):
 
 
 #3: Find words longer than n
-def longer_words(_list):
+def longer_words(_list, n):
   pass
 
 
